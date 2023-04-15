@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Intellij Idea-#000000?style=for-the-badge&logo=Intellij Idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Intellij Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
 </div>
