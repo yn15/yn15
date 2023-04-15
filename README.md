@@ -7,6 +7,6 @@
  </p>
  
  <p align="center">
-   <a href="https://github.com/yn15"><img align="justify"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yn15&theme=solarized" /></a> 
-  <a href="https://github.com/yn15"><img align="justify"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yn15&theme=solarized" /></a> 
+   <a href="https://github.com/yn15"><img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yn15&theme=solarized" /></a> 
+  <a href="https://github.com/yn15"><img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yn15&theme=solarized" /></a> 
   </p>
