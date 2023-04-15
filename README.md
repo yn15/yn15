@@ -4,7 +4,7 @@
   <br>
   <br>
   <a href="https://github.com/yn15"><img align="center" style="height:180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yn15&theme=solarized" alt="Dongju's github stats" /></a> &nbsp
-  <a href="https://github.com/yn15"><img align="center" style="height:180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yn15&theme=solarized" alt="Dongju's github stats" /></a> &nbsp
+  <a href="https://github.com/yn15"><img align="center" style="height:180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yn15&theme=solarized" alt="Dongju's github stats" /></a> &nbsp
   <a href="https://github.com/yn15"><img align="center" style="height:180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yn15&theme=solarized" alt="Dongju's github stats" /></a> &nbsp
   
  </p>
